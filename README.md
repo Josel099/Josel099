@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Josel Xavier</h1>
 <h3 align="center">I am a computer science student, who highly passionate about the technology,coding,innovations.</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josel099&label=Profile%20views&color=0e75b6&style=flat" alt="josel099" /> </p>
 
 <p align="left"> <a href="https://twitter.com/josel_xavier" target="blank"><img src="https://img.shields.io/twitter/follow/josel_xavier?logo=twitter&style=for-the-badge" alt="josel_xavier" /></a> </p>
