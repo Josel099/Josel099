@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack webdevelopment ,AI**
 
-- 💬 Ask me about **html,css,javascript,bootstrap,java,c,cpp,python**
+- 💬 Ask me about **programing,technology etc**
 
 - 📫 How to reach me **www.linkedin.com/in/josel099**
 
