@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/josel_xavier" ><img src="https://img.shields.io/twitter/follow/josel_xavier?logo=twitter&style=for-the-badge" alt="josel_xavier" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack webdevelopment ,AI**
+- 🌱 I’m currently learning **Full stack webdevelopment ,Blockchain development**
 
-- 💬 Ask me about **programing,technology etc**
+- 💬 Ask me about **programing,technology **
 
 - 📫 How to reach me **www.linkedin.com/in/josel099**
 
