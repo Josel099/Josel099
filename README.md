@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **programing,technology **
 
-- 📫 How to reach me **www.linkedin.com/in/josel099**
+- 📫  reach me **www.linkedin.com/in/josel099**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
