@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there++!+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Hi+there++!+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
 <p>From coding to innovation 🧑🏽‍💻, I'm <b>Josel Xavier </b> ,  a tech enthusiast on a journey of endless possibilities in the world of software development!</p>
 
