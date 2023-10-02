@@ -1,10 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F6BE9&width=435&lines=Spring+Boot+Developer+" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there++!+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
+<p>From coding to innovation 🧑🏽‍💻, I'm <b>Josel Xavier </b> ,  a tech enthusiast on a journey of endless possibilities in the world of software development!</p>
 
-<h1 align="center">Hi 👋, I am Josel Xavier</h1>
-<h3 align="center">A cs  student, who highly passionate about the technology,coding and innovations.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left">  </p>
+<a href="https://www.buymeacoffee.com/Josel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <p align="left"> <a href="https://twitter.com/josel_xavier" ><img src="https://img.shields.io/twitter/follow/josel_xavier?logo=twitter&style=for-the-badge" alt="josel_xavier" /></a> </p>
 
