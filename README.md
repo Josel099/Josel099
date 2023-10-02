@@ -2,15 +2,19 @@
 
 <p>From coding to innovation 🧑🏽‍💻, I'm <b>Josel Xavier </b> ,  a tech enthusiast on a journey of endless possibilities in the world of software development!</p>
 
-<a href="https://www.buymeacoffee.com/Josel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/Josel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="38" width="174"></a>
 
-<p align="left"> <a href="https://twitter.com/josel_xavier" ><img src="https://img.shields.io/twitter/follow/josel_xavier?logo=twitter&style=for-the-badge" alt="josel_xavier" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack webdevelopment ,Blockchain development**
+### ⚡️ A quick introduction
 
-- 💬 Ask me about **programing,technology **
+- 🌱 I'm a final year B.Tech student, passionate about Spring Boot, and proficient in React.
+- 🤟🏻 I'm an aspiring software developer, cloud enthusiast, and a full-stack developer.
+- ⚽ Hobbies: Football, reading, and watching movies. I also enjoy exploring new technologies!
+- 😝 Fun-Fact: I have an uncanny talent for finding the best local food joints in any city.
 
-- 📫  reach me **www.linkedin.com/in/josel099**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
