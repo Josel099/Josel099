@@ -1,5 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=29&duration=4000&pause=00&color=1C1EE2EE&vCenter=true&repeat=false&width=490&height=70&lines=Hi+there+!+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
+
+[![An image of @josel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/josel)](https://holopin.io/@josel)
+
+
 <p>From coding to innovation 🧑🏽‍💻, I'm <b>Josel Xavier </b> ,  a tech enthusiast on a journey of endless possibilities in the world of software development!</p>
 
 <a href="https://www.buymeacoffee.com/Josel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
@@ -61,4 +65,3 @@
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=josel099&theme=transparent&"alt="josel099" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=josel099&show_icons=true&theme=transparent&locale=en" alt="josel099" /></p> -->
-
